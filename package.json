@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shimataro/ssh-key-action.git"
+    "url": "git+https://github.com/celsiustx/ssh-key-action.git"
   },
   "keywords": [
     "actions",
